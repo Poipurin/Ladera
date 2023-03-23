@@ -8,6 +8,15 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 <img src="https://i.ibb.co/JB3BwqC/paleta-ladera.png" alt="paleta-ladera">
 
 #### Tipografías
+- H1 - Saira Condensed Semibold 600
+- H2 - Saira Condensed Medium 500
+- H3 - Saira Condensed
+- H4 - Saira Condensed
+- H5 - Saira Condensed
+- H6 - Saira Condensed
+- Párrafo - Poppins Regular 400
+- Hipervínculo - Poppins Medium 500
+
 #### Logo
 #### Iconografía
 
