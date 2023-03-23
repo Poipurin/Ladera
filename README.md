@@ -4,6 +4,10 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 
 ## Guía de estilos
 ### En el cerro UI kit
+#### Paleta de colores
+#### Tipografías
+#### Logo
+#### Iconografía
 
 #### Figma
 
