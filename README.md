@@ -5,7 +5,7 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 ## Guía de estilos
 ### En el cerro UI kit
 #### Paleta de colores
-<img src="https://i.ibb.co/JB3BwqC/paleta-ladera.png" alt="paleta-ladera">
+
 
 #### Tipografías
 - H1 - Saira Condensed Semibold 600
