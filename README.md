@@ -30,11 +30,14 @@ Por otro lado, en la versión privada el usuario posee una cuenta la que le perm
 - Hipervínculo - Poppins Medium 500
 
 #### Logo
-<img src="https://i.ibb.co/ZL8ym5h/Recurso-1.png" alt="logo color ladera" border="0">
+
+![Logo](https://i.ibb.co/ZL8ym5h/Recurso-1.png)
 
 #### Iconografía
 
 #### Figma
+
+
 
 ### Referentes
 
