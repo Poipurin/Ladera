@@ -6,6 +6,15 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 ### En el cerro UI kit
 #### Paleta de colores
 
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primario | ![#636b84](https://via.placeholder.com/10/636b84?text=+) #636b84 |
+| Primario | ![#c5be87](https://via.placeholder.com/10/c5be87?text=+) #c5be87 |
+| Primario | ![#b0b579](https://via.placeholder.com/10/b0b579?text=+) #b0b579 |
+| Secundario | ![#9cb4cb](https://via.placeholder.com/10/9cb4cb?text=+) #9cb4cb |
+| Secundario | ![#2f492f](https://via.placeholder.com/10/2f492f?text=+) #2f492f |
+
+
 
 #### Tipografías
 - H1 - Saira Condensed Semibold 600
