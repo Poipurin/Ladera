@@ -27,7 +27,7 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 - Hipervínculo - Poppins Medium 500
 
 #### Logo
-<img src="https://i.ibb.co/ZL8ym5h/Recurso-1.png" alt="Recurso-1" border="0">
+<img src="https://i.ibb.co/ZL8ym5h/Recurso-1.png" alt="logo color ladera" border="0">
 
 #### Iconografía
 
