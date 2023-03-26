@@ -37,7 +37,7 @@ Por otro lado, en la versión privada el usuario posee una cuenta la que le perm
 
 #### Figma
 
-[Prototipo de media Ladera landing](https://www.figma.com/file/ZZBcJHStxDP9d4B0c09Inn/Ladera?node-id=0%3A1&t=DbT0gSAmXLw3TJ2r-1)
+[Prototipo de media Ladera landing](https://www.figma.com/proto/ZZBcJHStxDP9d4B0c09Inn/Ladera?node-id=1-2&scaling=scale-down-width&page-id=0%3A1)
 
 
 
