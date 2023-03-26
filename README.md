@@ -1,6 +1,6 @@
 # Ladera
 Mapeo de lugares aptos para trekking y su nivel de dificultad. Una guía de ruta para aventureros desde principiante hasta avanzado.
-Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y sus niveles, avistamiento de fauna , un foro, desafíos Ladera y conexión con aplicaciones de pulseras y relojes inteligentes.
+Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y sus niveles, avistamiento de fauna y flora, un foro, desafíos Ladera y conexión con aplicaciones de pulseras y relojes inteligentes.
 
 En la versión pública del sitio el usuario puede acceder a las rutas, información sobre los desafíos y avistamientos de fauna.
 Por otro lado, en la versión privada el usuario posee una cuenta que le permite postear contenido, seguir usuarios y ser seguido, generar eventos de trekking, participar en los desafíos Ladera y conectar el progreso con su aplicación fitness favorita.
