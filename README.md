@@ -3,7 +3,7 @@ Mapeo de lugares aptos para trekking y su nivel de dificultad. Una guía de ruta
 Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y sus niveles, avistamiento de fauna , un foro, desafíos Ladera y conexión con aplicaciones de pulseras y relojes inteligentes.
 
 En la versión pública del sitio el usuario puede acceder a las rutas, información sobre los desafíos y avistamientos de fauna.
-Por otro lado, en la versión privada el usuario posee una cuenta la que le permite postear contenido, seguir usuarios y ser seguido, generar eventos de trekking, participar en los desafíos Ladera y conectar su progreso a su aplicación fitness favorita.
+Por otro lado, en la versión privada el usuario posee una cuenta que le permite postear contenido, seguir usuarios y ser seguido, generar eventos de trekking, participar en los desafíos Ladera y conectar el progreso con su aplicación fitness favorita.
 
 ## Tecnologías y lenguajes
 #### Para la parte pública del proyecto
