@@ -5,6 +5,13 @@ Dentro de sus funcionalidades se encuentra un mapa con localización de rutas y 
 En la versión pública del sitio el usuario puede acceder a las rutas, información sobre los desafíos y avistamientos de fauna.
 Por otro lado, en la versión privada el usuario posee una cuenta la que le permite postear contenido, seguir usuarios y ser seguido, generar eventos de trekking, participar en los desafíos Ladera y conectar su progreso a su aplicación fitness favorita.
 
+## Tecnologías y lenguajes
+#### Para la parte pública del proyecto
+HTML | CSS | JavaScript vanilla
+
+#### Para la parte privada del proyecto
+HTML | CSS | ReactJS
+
 ## Guía de estilos
 ### En el cerro UI kit
 #### Paleta de colores
@@ -41,9 +48,17 @@ Por otro lado, en la versión privada el usuario posee una cuenta la que le perm
 
 ![Previa](https://i.ibb.co/D5HFSgQ/previa.jpg)
 
+### Equipo
+- [Bárbara Pino - Product Owner / Developer ](https://github.com/Poipurin)
+- [Francisca Lazo - Developer ](https://github.com/FranMarvelous)
+- [Ariel Retamales - Developer ](https://github.com/ArielRetamales1593)
 
 
 ### Referentes
+- [Adidas](https://www.adidas.cl/)
+- [Adagio Teas](https://adagio.cl/)
+- [International Alpine Guides](https://www.internationalalpineguides.com/california-hiking/)
+- [Svenska Turistföreningen](https://www.svenskaturistforeningen.se/guider-tips/leder/)
 
 
 
