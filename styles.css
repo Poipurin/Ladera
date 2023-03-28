@@ -1,4 +1,42 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+}
+/* FOOTER */
+.cont {
+  background-color: #646c85;
+
+  height: 180px;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  font-family: "Saira Condensed", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+}
+.logo_footer {
+  width: 180px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+}
+
+.cont_table {
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+li {
+  list-style: none;
+  font-size: 20;
+}
+.link {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+th {
+  text-align: start;
+  font-family: 24;
 }
