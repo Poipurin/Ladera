@@ -5,8 +5,7 @@
 /* FOOTER */
 .cont {
   background-color: #646c85;
-  width: 100%;
-  position: fixed;
+
   height: 180px;
   bottom: 0;
   display: flex;
